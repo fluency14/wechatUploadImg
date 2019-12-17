@@ -1,0 +1,4 @@
+<view class="container">
+  <button bindtap="downloadImage">下载图片</button>
+  <image src="{{imgurl}}"></image>
+</view>

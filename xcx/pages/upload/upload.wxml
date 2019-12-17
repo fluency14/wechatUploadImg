@@ -1,0 +1,4 @@
+<view class="container">
+  <button bindtap="uploadFile">点击上传图片</button>
+  <image src="{{imgurl}}"></image>
+</view>
